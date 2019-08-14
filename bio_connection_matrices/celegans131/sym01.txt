@@ -1,0 +1,7 @@
+131
+687
+639
+207
+29
+1
+Euler characteristic : -96

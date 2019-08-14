@@ -1,0 +1,5 @@
+20
+32
+5
+Euler characteristic : -7
+Standard Betti numbers: 1 8 0 

@@ -1,0 +1,10 @@
+277
+2105
+3776
+3322
+2020
+841
+185
+6
+Euler characteristic : -16
+Standard Betti numbers: 1 196 235 92 37 3 2 0 
